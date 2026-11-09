@@ -1,0 +1,16 @@
+sigle;version;ville;bibliotheque;cote;date;folios;commentaire;manifeste
+C;[*C1];Bern;Burgerbibliothek;318;9;7-22v;;https://www.e-codices.unifr.ch/metadata/iiif/bbb-0318/manifest.json
+B-Is;[*B-Is1];Città del Vaticano;BAV;Pal. lat. 1074;10-11;1-22;;https://digi.vatlib.it/iiif/MSS_Pal.lat.1074/manifest.json
+Sous-version H-B-Is;[*B-Is3];London;BL;Stowe 1067;12 (inc.);1-15v;;https://bl.digirati.io/iiif/ark:/81055/vdc_100056068493.0x000001
+2F;[*B-Bes6];Aberdeen;UL;24;12 (ex.);1-103;;
+2F;;Cambridge;Corpus Christi College;53;14 (inc.);189-210;;https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/manifest.json
+2F;[*B-Bes1];London;BL;Add. 11283;12 (inc.);1-41;;https://bl.digirati.io/iiif/ark:/81055/vdc_100055965341.0x000001
+2F;;London;BL;Harley 4751;12 (ex.);1-74v;;https://bl.digirati.io/iiif/ark:/81055/vdc_100056056799.0x000001
+2F;;Oxford;Bodl. Lib.;Bodl. 533;13;1-29v;;https://iiif.bodleian.ox.ac.uk/iiif/manifest/36652b63-d9b1-4480-a88b-769d558bf238.json
+2F;;Oxford;Bodl. Lib.;Ashmole 1511;12 (ex.);1-104;;https://iiif.bodleian.ox.ac.uk/iiif/manifest/faeff7fb-f8a7-44b5-95ed-cff9a9ffd198.json
+2F;;Oxford;Saint John’s College;61;13;1-103;;https://iiif.bodleian.ox.ac.uk/iiif/manifest/3c6c4b0c-67e4-4cc2-aa2e-e5f3464944e5.json
+DC;;Paris;BNF;lat. 2843E;13 (ex.);64-79v;DC ?;https://gallica.bnf.fr/iiif/ark:/12148/btv1b104647695/manifest.json
+PT;Philippe de Thaon[L];London;BL;Cotton MS Nero A V;12;41r-82v;The first work is his Bestiarius (Bestiary)−the oldest bestiary in French–which he composed between 1121 and 1135;https://bl.digirati.io/iiif/ark:/81055/vdc_100062419814.0x000001
+PT;Philippe de Thaon[O];Oxford;Merton College Lib.;MS 249;13;1r-10v;Digitisation note: This manuscript was refoliated after being photographed. Where the new foliation differs from the old foliation, both numbers are provided.;https://iiif.bodleian.ox.ac.uk/iiif/manifest/ad6e13ec-e70a-4b54-8008-d124fd93a320.json
+Greek;Physiologos;Leipzig;UB;Cod. gr. 35;14;25r-41v;Greek illuminated manuscripts produced in South Italy/Athens;https://iiif.ub.uni-leipzig.de/0000013152/manifest.json
+Aviarium;Hugues de Fouilloy[B];Bruges;Grootseminarie Brugge;MS. 89/54;12;27v-87v;;https://sharedcanvas.be/IIIF/manifests/B_GS_MS089-054
